@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Wachayathorn Singsena. Call me "NIGHT".
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently backend developer
+- 🌱 I’m currently Software Engineer
