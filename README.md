@@ -18,16 +18,20 @@ Software Engineer with **5+ years of experience**, specializing in building **sc
 
 ### Backend
 [![Backend](https://skillicons.dev/icons?i=go,express,nestjs,graphql,spring,dotnet)](https://skillicons.dev)
-- Golang backend including Gin, Echo, Fiber and gRPC
+- **Golang Backend**: Gin, Echo, Fiber, gRPC
+- **API Architecture**: RESTful, WebSocket
 
 ### Frontend
 [![Frontend](https://skillicons.dev/icons?i=bootstrap,react,nextjs)](https://skillicons.dev)
 
 ### Databases
 [![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis)](https://skillicons.dev)
+- **Additional**: MariaDB, Microsoft SQL Server
+- **Database Version Control**: Liquibase, Atlasgo
 
 ### Cloud & DevOps
 [![Cloud & DevOps](https://skillicons.dev/icons?i=gcp,firebase,cloudflare,docker,kubernetes,terraform,jenkins)](https://skillicons.dev)
+- **Deployment Tools**: Kaniko, Spinnaker
 
 ### Message Queue
 [![Message Queue & Testing](https://skillicons.dev/icons?i=rabbitmq,kafka)](https://skillicons.dev)
@@ -37,6 +41,9 @@ Software Engineer with **5+ years of experience**, specializing in building **sc
 
 ### Others
 [![Others](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
+- **Testing Tools**: K6, JMeter
+- **Documentation**: Swagger/OpenAPI
+- **Management**: Jira, Confluence, Odoo
 
 ## 📫 Connect with Me
 
@@ -44,4 +51,3 @@ Software Engineer with **5+ years of experience**, specializing in building **sc
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wachayathorn.s@gmail.com)
 
 ---
-<p align="center">💻 Let's build something amazing together!</p>
