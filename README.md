@@ -40,14 +40,8 @@ Software Engineer with **5+ years of experience**, specializing in building **sc
 
 ## 📫 Connect with Me
 
-<p>
-  <a href="https://linkedin.com/in/wachayathorn-singsena">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="mailto:wachayathorn.s@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wachayathorn-singsena)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wachayathorn.s@gmail.com)
 
 ---
 <p align="center">💻 Let's build something amazing together!</p>
