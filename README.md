@@ -17,7 +17,8 @@ Software Engineer with **5+ years of experience**, specializing in building **sc
 [![Programming Languages](https://skillicons.dev/icons?i=go,javascript,typescript,java,cs)](https://skillicons.dev)
 
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=go,express,nestjs,graphql,dotnet,spring)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=go,express,nestjs,graphql,spring,dotnet)](https://skillicons.dev)
+- Golang backend including Gin, Echo, Fiber and gRPC
 
 ### Frontend
 [![Frontend](https://skillicons.dev/icons?i=bootstrap,react,nextjs)](https://skillicons.dev)
@@ -28,26 +29,25 @@ Software Engineer with **5+ years of experience**, specializing in building **sc
 ### Cloud & DevOps
 [![Cloud & DevOps](https://skillicons.dev/icons?i=gcp,firebase,cloudflare,docker,kubernetes,terraform,jenkins)](https://skillicons.dev)
 
-### Tools & Others
-[![Tools & Others](https://skillicons.dev/icons?i=git,github,gitlab,prometheus,grafana)](https://skillicons.dev)
-
-### Message Queue & Testing
+### Message Queue
 [![Message Queue & Testing](https://skillicons.dev/icons?i=rabbitmq,kafka)](https://skillicons.dev)
 
-## 📊 GitHub Stats
+### Monitoring
+[![Monitoring](https://skillicons.dev/icons?i=prometheus,grafana)](https://skillicons.dev)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wachayathorn&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wachayathorn&theme=radical" alt="GitHub Streak" />
-</p>
+### Others
+[![Others](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/wachayathorn-singsena)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:wachayathorn.s@gmail.com)
+<p>
+  <a href="https://linkedin.com/in/wachayathorn-singsena">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="mailto:wachayathorn.s@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 <p align="center">💻 Let's build something amazing together!</p>
